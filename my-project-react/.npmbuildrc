@@ -1,0 +1,13 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "/home/gabriel/Documentos/projetos/Liferay-university/liferay-ce-portal-7.4.3.15-ga15",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\/.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
